@@ -14,5 +14,6 @@ public class App {
         System.out.println(baseballCoach.getDailyWorkout());
         Coach trackCoach = new TrackCoach();
         System.out.println(trackCoach.getDailyWorkout());
+        System.out.println("New changes");
     }
 }
